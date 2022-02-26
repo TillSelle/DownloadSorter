@@ -1,6 +1,6 @@
 # DownloadSorter
 Small Application to Sort my download folder with GUI and Async Mode
-<a href="https://ibb.co/0mHGGT6"><img src="Download-Sorter.gif" alt="Download-Sorter" border="0"></a>
+<a href="https://ibb.co/0mHGGT6"><img src="../Download Sorter.gif" alt="Download-Sorter" border="0"></a>
 
 ### Requirements:
 * .Net Runtime >= 6.0 could also work with previous versions untested tho
