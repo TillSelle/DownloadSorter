@@ -7,6 +7,8 @@ Small Application to Sort my download folder with GUI and Async Mode
 * * Get at https://dotnet.microsoft.com/en-us/download/dotnet/6.0
 * MahApps.Metro >= 2.4.9 could also work with previous versions untested tho
 * * Get it through Nuget
+* Download Sorter Class Library (DownloadSorterLibrary.dll)
+* * Get at https://github.com/TillSelle/DownloadSorterLibrary
 
 ### Known Issues:
 * Async Mode cant be re-entered after deactivating.
